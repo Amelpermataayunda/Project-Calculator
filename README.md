@@ -1,2 +1,2 @@
-# Project-Calculator
+# Project
 Project Calvulator JavaScript
